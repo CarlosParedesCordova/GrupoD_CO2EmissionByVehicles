@@ -6,12 +6,11 @@
 - Carlos Villavicencio
 - Bryan Requenes
 
-Dataset Seleccionado:
+# Dataset Seleccionado:
 Emisiones de CO2 por vehículos
 Link: https://www.kaggle.com/debajyotipodder/co2-emission-by-vehicles
 
-Herramienta:
-Weka
+# Herramienta: Weka
 
 Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un vehículo pueden variar con las diferentes características. El conjunto de datos se tomó del sitio web oficial de datos abiertos del gobierno de Canadá. Esta es una versión compilada. Contiene datos sobre un período de 7 años.Hay un total de 7385 filas y 12 columnas. Hay pocas abreviaturas que se han utilizado para describir las características.
 
