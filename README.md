@@ -1,7 +1,7 @@
 # GrupoD_CO2EmissionByVehicles
 # Integrantes
 - Jimmy Jaramillo
-- Andres Ortega
+- Alberto Ortega
 - Jimmy Vicente
 - Carlos Villavicencio
 - Bryan Requenes
