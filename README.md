@@ -28,4 +28,16 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 - El consumo combinado de combustible (55% ciudad, 45% carretera) se muestra en L/100 km
 
 #  Algoritmos Seleccionados
+1. Decision Stump
+2. REPTree
+3. Hoeffding Tree
+  
+    El algoritmo del árbol de Hoeffding es un método de aprendizaje del árbol de
+    decisión para la clasificación de datos de flujo porque es capaz de aprender de
+    flujos de datos masivos. Los árboles de Hoeffding aprovechan el hecho de que
+    una pequeña muestra a menudo puede ser suficiente para elegir un atributo de
+    división óptimo.[4]
+  
+4. J48
+5. RandomTree
 
