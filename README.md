@@ -1,4 +1,4 @@
-# GrupoD_CO2EmissionByVehicles
+﻿# GrupoD_CO2EmissionByVehicles
 # Integrantes
 - Jimmy Jaramillo
 - Carlos Paredes
@@ -51,4 +51,6 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
   
 4. J48
 5. RandomTree
+Toman datos aleatorios del set de datos principal para crear N árboles de decisión a partir de muestras de datos seleccionadas al azar, con el fin de obtener predicciones de cada árbol para luego seleccionar la mejor, su filosofía se basa en muchos es mejor que uno. Los árboles son entrenados de forma ligeramente diferente y se fusionan para obtener predicciones más precisas y estables.
+Cada árbol generado por el algoritmo contiene un grupo de observaciones aleatorias elegidas mediante bootstrap, que es una técnica estadística para obtener muestras de una población donde una observación se puede considerar en más de una muestra. Las observaciones no estimadas en los árboles (también conocidas como “out of the bag”) se utilizan para validar el modelo. Las salidas de todos los árboles se combinan en una salida final Y (conocida como ensamblado) que se obtiene mediante alguna regla (generalmente el promedio, cuando las salidas de los árboles del ensamblado son numéricas y, conteo de votos, cuando las salidas de los árboles del ensamblado son categóricas).
 
