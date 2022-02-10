@@ -28,9 +28,9 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 - El consumo combinado de combustible (55% ciudad, 45% carretera) se muestra en L/100 km
 
 #  Algoritmos Seleccionados
-## Decision Stump
-## REPTree
-## Hoeffding Tree
+1. Decision Stump
+2. REPTree
+3. Hoeffding Tree
   
     El algoritmo del árbol de Hoeffding es un método de aprendizaje del árbol de
     decisión para la clasificación de datos de flujo porque es capaz de aprender de
@@ -49,11 +49,11 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
     de Hoeffding son los recuentos n ijk para el valor v j del atributo A i con
     etiqueta de clase y k. 
   
-## J48
+4. J48
 
     La clasificación es el proceso de construir un modelo de clases a partir de un conjunto de registros que contienen etiquetas de clase. El algoritmo de árbol de decisión         sirve   para averiguar el comportamiento del vector de atributos para una serie de instancias. También sobre la base de las instancias de entrenamiento se encuentran las         clases para las instancias recién generadas. Las características adicionales de J48 son la contabilización de los valores perdidos, la poda de los árboles de decisión,           los rangos de valores de atributos continuos, la derivación de reglas. [1]
 
-## RandomTree
+5. RandomTree
 
     Toman datos aleatorios del set de datos principal para crear N árboles de decisión a partir de muestras de datos seleccionadas al azar, con el fin de obtener predicciones de     cada árbol para luego seleccionar la mejor, su filosofía se basa en muchos es mejor que uno. Los árboles son entrenados de forma ligeramente diferente y se fusionan para         obtener predicciones más precisas y estables.
     Cada árbol generado por el algoritmo contiene un grupo de observaciones aleatorias elegidas mediante bootstrap, que es una técnica estadística para obtener muestras de una       población donde una observación se puede considerar en más de una muestra. Las observaciones no estimadas en los árboles (también conocidas como “out of the bag”) se             utilizan para validar el modelo. Las salidas de todos los árboles se combinan en una salida final Y (conocida como ensamblado) que se obtiene mediante alguna regla               (generalmente el promedio, cuando las salidas de los árboles del ensamblado son numéricas y, conteo de votos, cuando las salidas de los árboles del ensamblado son               categóricas).
