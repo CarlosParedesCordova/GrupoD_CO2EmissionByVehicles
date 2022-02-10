@@ -26,3 +26,6 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 - Consumo de combustible en vías urbanas (L/100 km)
 - Consumo de combustible en carreteras (L/100 km)
 - El consumo combinado de combustible (55% ciudad, 45% carretera) se muestra en L/100 km
+
+#  Algoritmos Seleccionados
+
