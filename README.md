@@ -38,12 +38,14 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
     una pequeña muestra a menudo puede ser suficiente para elegir un atributo de
     división óptimo [4].
     
-     A diferencia de árboles de decisiones incrementales es que tiene sólidas
+    Características
+
+    - A diferencia de árboles de decisiones incrementales es que tiene sólidas
     garantías de rendimiento,
-     El algoritmo toma como entrada una secuencia de ejemplos de
+    - El algoritmo toma como entrada una secuencia de ejemplos de
     entrenamiento, S, descrita por los atributos A, y el parámetro de
     precisión.
-     Las únicas estadísticas que deben mantenerse en el algoritmo del árbol
+    - Las únicas estadísticas que deben mantenerse en el algoritmo del árbol
     de Hoeffding son los recuentos n ijk para el valor v j del atributo A i con
     etiqueta de clase y k. 
   
