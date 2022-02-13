@@ -62,3 +62,11 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 # Tabla Comparativa entre los Algoritmos de Clasificación por Clase de Vehículo
 
 ![image](https://user-images.githubusercontent.com/46327676/153418207-6feca732-93d6-4387-9480-21b8865e401e.png)
+
+
+# Pasos
+![image](https://user-images.githubusercontent.com/46327676/153757719-cdc7928f-696b-46d7-91dc-241b2dd9a316.png)
+![image](https://user-images.githubusercontent.com/46327676/153757836-093b9b34-1721-4478-8e8a-eb0849b4a22f.png)
+![image](https://user-images.githubusercontent.com/46327676/153757909-22be296a-5b17-4bc6-8aed-a69ee6f382d6.png)
+![image](https://user-images.githubusercontent.com/46327676/153757955-f42a8b03-c0ca-455c-9310-6735c66e2a78.png)
+
