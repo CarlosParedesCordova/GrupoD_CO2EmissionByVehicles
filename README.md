@@ -72,6 +72,8 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 ![image](https://user-images.githubusercontent.com/46327676/153758247-bcd94d5b-e843-4d2b-8e4f-544106cb025c.png)
 ![image](https://user-images.githubusercontent.com/46327676/153758299-0641039b-8b62-4e5b-b01c-25f53139c160.png)
 ![image](https://user-images.githubusercontent.com/46327676/153758401-932e2935-56c2-4504-bd74-a9b920214fc1.png)
+![image](https://user-images.githubusercontent.com/46327676/153758550-ab126df7-ddff-49db-91f2-611194cdaa15.png)
+
 
 
 
