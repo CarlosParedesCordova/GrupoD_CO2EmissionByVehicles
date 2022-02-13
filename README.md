@@ -69,9 +69,9 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 ![image](https://user-images.githubusercontent.com/46327676/153757836-093b9b34-1721-4478-8e8a-eb0849b4a22f.png)
 ![image](https://user-images.githubusercontent.com/46327676/153757909-22be296a-5b17-4bc6-8aed-a69ee6f382d6.png)
 ![image](https://user-images.githubusercontent.com/46327676/153757955-f42a8b03-c0ca-455c-9310-6735c66e2a78.png)
-![image](https://user-images.githubusercontent.com/46327676/153758184-54ff54a5-7644-4e55-8f60-b9d76881c96f.png)
 ![image](https://user-images.githubusercontent.com/46327676/153758247-bcd94d5b-e843-4d2b-8e4f-544106cb025c.png)
-
+![image](https://user-images.githubusercontent.com/46327676/153758299-0641039b-8b62-4e5b-b01c-25f53139c160.png)
+![image](https://user-images.githubusercontent.com/46327676/153758401-932e2935-56c2-4504-bd74-a9b920214fc1.png)
 
 
 
