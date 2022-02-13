@@ -65,15 +65,12 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 
 
 # Pasos
-![image](https://user-images.githubusercontent.com/46327676/153757719-cdc7928f-696b-46d7-91dc-241b2dd9a316.png)
-![image](https://user-images.githubusercontent.com/46327676/153757836-093b9b34-1721-4478-8e8a-eb0849b4a22f.png)
-![image](https://user-images.githubusercontent.com/46327676/153757909-22be296a-5b17-4bc6-8aed-a69ee6f382d6.png)
-![image](https://user-images.githubusercontent.com/46327676/153757955-f42a8b03-c0ca-455c-9310-6735c66e2a78.png)
-![image](https://user-images.githubusercontent.com/46327676/153758247-bcd94d5b-e843-4d2b-8e4f-544106cb025c.png)
-![image](https://user-images.githubusercontent.com/46327676/153758299-0641039b-8b62-4e5b-b01c-25f53139c160.png)
-![image](https://user-images.githubusercontent.com/46327676/153758401-932e2935-56c2-4504-bd74-a9b920214fc1.png)
-![image](https://user-images.githubusercontent.com/46327676/153758550-ab126df7-ddff-49db-91f2-611194cdaa15.png)
 
-
+![image](https://user-images.githubusercontent.com/46327676/153769648-93a2a24f-74ab-4dd4-b490-2a22579d3ab9.png)
+![image](https://user-images.githubusercontent.com/46327676/153769697-36074706-fa17-41d7-a473-88a21ddee4a5.png)
+![image](https://user-images.githubusercontent.com/46327676/153769784-63e6724d-938d-4670-b540-a94a0651836a.png)
+![image](https://user-images.githubusercontent.com/46327676/153769832-d5a43229-1119-43c1-b587-e421e4401533.png)
+![image](https://user-images.githubusercontent.com/46327676/153769854-6b929fe8-6dbf-45b7-bb7a-6bac080149b5.png)
+![image](https://user-images.githubusercontent.com/46327676/153769941-a482ac47-e09d-4a5d-b86f-df13a1f1acf0.png)
 
 
