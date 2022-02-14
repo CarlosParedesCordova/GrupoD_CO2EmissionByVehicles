@@ -105,7 +105,14 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ![image](https://user-images.githubusercontent.com/46327676/153786575-a5c088da-454a-487c-8de6-61633187e27e.png)
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153787731-be06b74d-7db1-4409-86b1-5e40b290424f.png)
+###
 14.Pulsando el botón contrario del ratón se desplegara la siguiente ventana emergente 
 15.Pulsa sobre la opción visualizar Árbol de Decisión
+###
+![image](https://user-images.githubusercontent.com/46327676/153787882-8b9507d4-ba33-49c7-bff3-7aa6f0653cd4.png)
+###
+16.Esta opción permite visualizar los error clasificados
+![image](https://user-images.githubusercontent.com/46327676/153788084-277a5578-04f9-4182-a939-30ee7f2d5b74.png)
+###
+![image](https://user-images.githubusercontent.com/46327676/153787993-a8195192-ab1f-4a75-a33c-9be96e4b7766.png)
 
-![image](https://user-images.githubusercontent.com/46327676/153787096-a8887e18-8cf6-4e02-bbef-4f04ba9ab1ca.png)
