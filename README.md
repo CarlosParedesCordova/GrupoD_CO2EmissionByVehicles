@@ -100,7 +100,9 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ![image](https://user-images.githubusercontent.com/46327676/153785800-292cb7fd-fcec-4d40-8017-c896e465b9a7.png)
 ###
 11.Seleccionamos la opción "Start" para ejecutar 
+###
 12.Una vez realizado el test podemos observar el porcentaje de aciertos en este caso constamos con un 90.9276%
+###
 13.Se puede observar el porcentaje de aciertos desglosados por clase
 ![image](https://user-images.githubusercontent.com/46327676/153786575-a5c088da-454a-487c-8de6-61633187e27e.png)
 ###
