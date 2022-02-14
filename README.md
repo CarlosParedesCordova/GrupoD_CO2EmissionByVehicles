@@ -143,7 +143,9 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ###
 18.Abrimos el archivo
 ###
-19.Seleccionamos el archivo con nuevos datos 
+19.Seleccionamos el archivo con nuevos datos(para realizar una predicción con el archivo que se va aplicar se debera hacer cambios en el campo que va ha desear predecir en  este caso es "Vehicle Class" como se puede observar en la siguiente imagen se deber cambiar el valor del campo seleccionado por un "?" con el fin de que la herramienta haga su predicción una vez ya aplicado el algoritmo del dataset
+###
+![image](https://user-images.githubusercontent.com/46327676/153908193-90cceb09-0f71-4d42-94bb-eaa1c957589c.png)
 ###
 20.Se abre el arhcivo 
 ###
