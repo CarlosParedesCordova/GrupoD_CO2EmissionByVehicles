@@ -104,6 +104,7 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 12.Una vez realizado el test podemos observar el porcentaje de aciertos en este caso constamos con un 90.9276%
 ###
 13.Se puede observar el porcentaje de aciertos desglosados por clase
+###
 ![image](https://user-images.githubusercontent.com/46327676/153786575-a5c088da-454a-487c-8de6-61633187e27e.png)
 ###
 14.Pulsando el botón contrario del ratón se desplegara la siguiente ventana emergente 
@@ -114,8 +115,8 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153787882-8b9507d4-ba33-49c7-bff3-7aa6f0653cd4.png)
 ###
-16.Esta opción permite visualizar los error clasificados
-![image](https://user-images.githubusercontent.com/46327676/153788084-277a5578-04f9-4182-a939-30ee7f2d5b74.png)
+15.Esta opción permite visualizar los error clasificados
+![image](https://user-images.githubusercontent.com/46327676/153788360-1c922d33-6532-41c6-999b-83e542a5d17c.png)
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153787993-a8195192-ab1f-4a75-a33c-9be96e4b7766.png)
 
