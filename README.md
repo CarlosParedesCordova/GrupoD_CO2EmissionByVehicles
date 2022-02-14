@@ -72,8 +72,12 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 
 2.Lo primero que vamos hacer es cargar los datos en el área de trabajo, para ello selccionamos la opción "Open File"
 ![image](https://user-images.githubusercontent.com/46327676/153769697-36074706-fa17-41d7-a473-88a21ddee4a5.png)
+3. Seleccionamos formato del archivo dataset en este ejemplo el formato es ".CSV"
+4. Se procede a selecionar el archivo detaset y se lo abre
 ![image](https://user-images.githubusercontent.com/46327676/153769784-63e6724d-938d-4670-b540-a94a0651836a.png)
-![image](https://user-images.githubusercontent.com/46327676/153769832-d5a43229-1119-43c1-b587-e421e4401533.png)
+5.Se ingresa al area "Classify" 
+6.Seleccionamos la clase que vamos aplicar en el algoritmo "Vehicle Class"
+7.Elección del clasificador
 ![image](https://user-images.githubusercontent.com/46327676/153769854-6b929fe8-6dbf-45b7-bb7a-6bac080149b5.png)
 ![image](https://user-images.githubusercontent.com/46327676/153769941-a482ac47-e09d-4a5d-b86f-df13a1f1acf0.png)
 
