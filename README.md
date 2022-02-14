@@ -106,9 +106,10 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 13.Se puede observar el porcentaje de aciertos desglosados por clase
 ![image](https://user-images.githubusercontent.com/46327676/153786575-a5c088da-454a-487c-8de6-61633187e27e.png)
 ###
+14.Pulsando el botón contrario del ratón se desplegara la siguiente ventana emergente 
+###
 ![image](https://user-images.githubusercontent.com/46327676/153787731-be06b74d-7db1-4409-86b1-5e40b290424f.png)
 ###
-14.Pulsando el botón contrario del ratón se desplegara la siguiente ventana emergente 
 15.Pulsa sobre la opción visualizar Árbol de Decisión
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153787882-8b9507d4-ba33-49c7-bff3-7aa6f0653cd4.png)
