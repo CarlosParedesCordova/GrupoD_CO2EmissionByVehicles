@@ -67,7 +67,7 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 # Pasos a seguir para la aplicación del Algoritmo
 
 1. Se ingresa a Explorer donde permite el acceso a la mayoría de las funcionalidades integradas en Weka de una manera sencilla.
-#
+###
 ![image](https://user-images.githubusercontent.com/46327676/153769648-93a2a24f-74ab-4dd4-b490-2a22579d3ab9.png)
 
 2.Lo primero que vamos hacer es cargar los datos en el área de trabajo, para ello selccionamos la opción "Open File"
