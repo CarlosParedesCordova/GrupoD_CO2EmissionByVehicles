@@ -64,9 +64,11 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 ![image](https://user-images.githubusercontent.com/46327676/153418207-6feca732-93d6-4387-9480-21b8865e401e.png)
 
 
-# Pasos
+# Pasos a seguir para la aplicación del Algoritmo
 
+-1 Se ingresa a Explorer donde permite el acceso a la mayoría de las funcionalidades integradas en Weka de una manera sencilla.
 ![image](https://user-images.githubusercontent.com/46327676/153769648-93a2a24f-74ab-4dd4-b490-2a22579d3ab9.png)
+-2 
 ![image](https://user-images.githubusercontent.com/46327676/153769697-36074706-fa17-41d7-a473-88a21ddee4a5.png)
 ![image](https://user-images.githubusercontent.com/46327676/153769784-63e6724d-938d-4670-b540-a94a0651836a.png)
 ![image](https://user-images.githubusercontent.com/46327676/153769832-d5a43229-1119-43c1-b587-e421e4401533.png)
