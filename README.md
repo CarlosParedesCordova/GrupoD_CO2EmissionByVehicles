@@ -157,7 +157,7 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ###
 23.Entramos a More options..
 ###
-24.Se abre una pantalla emergente donde se mostrara varias opciones de clasificacion, vamos a la de predicciones en el apartado "Choose" seleccionamos el tipo formato del archivo con nuevos datos para poder observar las predicciones que se realizaran
+24.Se abre una pantalla emergente donde se mostrara varias opciones de clasificacion, vamos a la de predicciones en el apartado "Choose" seleccionamos el tipo formato del archivo con nuevos datos para poder observar las predicciones que se realizaran, para mejor visualización se selecciono plaintext
 ###
-![image](https://user-images.githubusercontent.com/46327676/153790802-2b15dca2-69f7-41c8-878d-d01633f31a07.png)
+![image](https://user-images.githubusercontent.com/46327676/153907656-def7332a-7874-4b36-8baf-2e6b6a1317c9.png)
 ###
