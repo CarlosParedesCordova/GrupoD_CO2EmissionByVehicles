@@ -163,3 +163,7 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153907656-def7332a-7874-4b36-8baf-2e6b6a1317c9.png)
 ###
+25.Una vez ya aplicado el algoritmo J48 de todo el dataset se puede realizar la predicción con un nuevo conjunto de datos como se puede observar la predicción de estos datos
+###
+![image](https://user-images.githubusercontent.com/46327676/153909124-f38549ea-dd5b-4209-a685-e8a2c61d91c1.png)
+
