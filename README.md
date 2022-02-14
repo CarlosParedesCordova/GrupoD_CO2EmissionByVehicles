@@ -115,8 +115,8 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153787882-8b9507d4-ba33-49c7-bff3-7aa6f0653cd4.png)
 ###
-15.Esta opción permite visualizar los error clasificados
-![image](https://user-images.githubusercontent.com/46327676/153788360-1c922d33-6532-41c6-999b-83e542a5d17c.png)
+16.Esta opción permite visualizar los error clasificados
+![image](https://user-images.githubusercontent.com/46327676/153788559-e37fd189-00b8-4586-ba8e-b2021aa8f988.png)
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153787993-a8195192-ab1f-4a75-a33c-9be96e4b7766.png)
 
