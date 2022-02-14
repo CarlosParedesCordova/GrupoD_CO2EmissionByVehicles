@@ -75,16 +75,27 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 ![image](https://user-images.githubusercontent.com/46327676/153769697-36074706-fa17-41d7-a473-88a21ddee4a5.png)
 ###
 3. Seleccionamos formato del archivo dataset en este ejemplo el formato es ".CSV"
+###
 4. Se procede a selecionar el archivo detaset y se lo abre
+###
 ![image](https://user-images.githubusercontent.com/46327676/153769784-63e6724d-938d-4670-b540-a94a0651836a.png)
+###
 5.Se ingresa al area "Classify" 
+###
 6.Seleccionamos la clase que vamos aplicar en el algoritmo "Vehicle Class"
+###
 7.Elección del clasificador
+###
 ![image](https://user-images.githubusercontent.com/46327676/153769854-6b929fe8-6dbf-45b7-bb7a-6bac080149b5.png)
+###
 8.Seleccionamos la carpeta "trees" con el fin de seleccionar el algoritmo elegido una vez realizado la tabala comparativa.
+###
 9.El algoritmo para la aplicación es el "J48"
+###
 ![image](https://user-images.githubusercontent.com/46327676/153769941-a482ac47-e09d-4a5d-b86f-df13a1f1acf0.png)
+###
 10.En las opciones para realizar el test seleccionamos la opción "Cross-validation" donde se  calcula el porcentaje de aciertos esperado
 haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por omisión es de 10)
+###
 ![image](https://user-images.githubusercontent.com/46327676/153785800-292cb7fd-fcec-4d40-8017-c896e465b9a7.png)
 
