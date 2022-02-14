@@ -120,5 +120,7 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153787993-a8195192-ab1f-4a75-a33c-9be96e4b7766.png)
 ### Predicciones con Nuevos Datos
-17.Seleccionamos Supplied test set este apartado los atributos de los datos son escritos en un nuevo archivo de formato .CSV sobre el cual se efectuara la clasificación
-![image](https://user-images.githubusercontent.com/46327676/153789101-4fc0fdba-e26f-4f27-87ad-bb7fbbc407f9.png)
+17.Seleccionamos Supplied test set "Set.." este apartado los atributos de los datos son escritos en un nuevo archivo de formato .CSV sobre el cual se efectuara la clasificación
+###
+![image](https://user-images.githubusercontent.com/46327676/153789466-1e8d21fe-7ee2-4955-b28c-1c7d1651be04.png)
+###
