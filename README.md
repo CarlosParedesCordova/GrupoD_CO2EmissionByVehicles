@@ -124,3 +124,22 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 ###
 ![image](https://user-images.githubusercontent.com/46327676/153789466-1e8d21fe-7ee2-4955-b28c-1c7d1651be04.png)
 ###
+18.Abrimos el archivo
+###
+19.Seleccionamos el archivo con nuevos datos 
+###
+20.Se abre el arhcivo 
+###
+![image](https://user-images.githubusercontent.com/46327676/153790035-3ecd9c92-03ac-46e6-a7b0-efbbddebec7d.png)
+###
+21.Seleccionamos la clase en este caso "Vehicle Class"
+###
+22.Se puede observa la cantidad de atributos que posee en dataset en este caso son 12
+###
+![image](https://user-images.githubusercontent.com/46327676/153790438-7fed3faf-8121-49cf-afa0-2dd9d23463a2.png)
+###
+23.Entramos a More options..
+###
+24.Se abre una pantalla emergente donde se mostrara varias opciones de clasificacion, vamos a la de predicciones en el apartado "Choose" seleccionamos el tipo formato del archivo con nuevos datos para poder observar las predicciones que se realizaran
+![image](https://user-images.githubusercontent.com/46327676/153790802-2b15dca2-69f7-41c8-878d-d01633f31a07.png)
+###
