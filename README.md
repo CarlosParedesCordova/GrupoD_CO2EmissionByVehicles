@@ -79,7 +79,8 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 6.Seleccionamos la clase que vamos aplicar en el algoritmo "Vehicle Class"
 7.Elección del clasificador
 ![image](https://user-images.githubusercontent.com/46327676/153769854-6b929fe8-6dbf-45b7-bb7a-6bac080149b5.png)
-8.Seleccionamos la carpeta "trees" con el fin de seleccionar el algoritmo elegido una vez realizado la tabala comparativa de estos algoritmo en este caso es el "J48"
+8.Seleccionamos la carpeta "trees" con el fin de seleccionar el algoritmo elegido una vez realizado la tabala comparativa.
+9.El algoritmo para la aplicación es el "J48"
 ![image](https://user-images.githubusercontent.com/46327676/153769941-a482ac47-e09d-4a5d-b86f-df13a1f1acf0.png)
 
 
