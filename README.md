@@ -31,7 +31,7 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 1. Decision Stump
 2. REPTree
    
-Rep Tree es un algoritmo de aprendizaje que construye un árbol de decisión usando reducción de ganancia/varianza de la información v poda basada en la reducción del error. Debido a que este algoritmo se encuentra optimizado para ser rápido, ordena los valores numéricos sólo una vez. Los valores perdidos, se manejan dividiendo las instancias existentes en segmentos. Los parámetros que pueden ser establecidos son: número mínimo de instancias en cada hoja, la profundidad máxima del árbol y la cantidad de datos usada para la poda. [2]
+      Rep Tree es un algoritmo de aprendizaje que construye un árbol de decisión usando reducción de ganancia/varianza de la información v poda basada en la reducción del error.       Debido a que este algoritmo se encuentra optimizado para ser rápido, ordena los valores numéricos sólo una vez. Los valores perdidos, se manejan dividiendo las instancias       existentes en segmentos. Los parámetros que pueden ser establecidos son: número mínimo de instancias en cada hoja, la profundidad máxima del árbol y la cantidad de datos         usada para la poda. [2]
 
 
 
