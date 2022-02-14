@@ -29,6 +29,16 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 
 #  Algoritmos Seleccionados
 1. Decision Stump
+      Un Decision Stump (tronco de decisión) es un árbol de decisión que utiliza un 
+      solo atributo para la división en el caso de los atributos discretos, esto suele 
+      significar que el árbol sólo consta de un único nodo interior (es decir, la raíz sólo 
+      tiene hojas como nodos sucesores). Si el atributo es numérico, el árbol puede ser 
+      más complejo. Los nodos hoja de un árbol de decisión contienen el nombre de 
+      clase, mientras que un nodo que no es hoja es un nodo de decisión. El nodo de 
+      decisión es una prueba de atributo con cada rama (a otro árbol de decisión) 
+      siendo un valor posible del atributo. Este operador se puede aplicar tanto en
+      conjuntos de datos nominales como numéricos.
+
 2. REPTree
    
       Rep Tree es un algoritmo de aprendizaje que construye un árbol de decisión usando reducción de ganancia/varianza de la información v poda basada en la reducción del error.       Debido a que este algoritmo se encuentra optimizado para ser rápido, ordena los valores numéricos sólo una vez. Los valores perdidos, se manejan dividiendo las instancias       existentes en segmentos. Los parámetros que pueden ser establecidos son: número mínimo de instancias en cada hoja, la profundidad máxima del árbol y la cantidad de datos         usada para la poda. [2]
