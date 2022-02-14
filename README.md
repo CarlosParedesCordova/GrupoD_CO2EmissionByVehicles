@@ -103,3 +103,9 @@ haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por om
 12.Una vez realizado el test podemos observar el porcentaje de aciertos en este caso constamos con un 90.9276%
 13.Se puede observar el porcentaje de aciertos desglosados por clase
 ![image](https://user-images.githubusercontent.com/46327676/153786575-a5c088da-454a-487c-8de6-61633187e27e.png)
+###
+![image](https://user-images.githubusercontent.com/46327676/153787731-be06b74d-7db1-4409-86b1-5e40b290424f.png)
+14.Pulsando el botón contrario del ratón se desplegara la siguiente ventana emergente 
+15.Pulsa sobre la opción visualizar Árbol de Decisión
+
+![image](https://user-images.githubusercontent.com/46327676/153787096-a8887e18-8cf6-4e02-bbef-4f04ba9ab1ca.png)
