@@ -29,6 +29,7 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 
 #  Algoritmos Seleccionados
 1. Decision Stump
+
       Un Decision Stump (tronco de decisión) es un árbol de decisión que utiliza un 
       solo atributo para la división en el caso de los atributos discretos, esto suele 
       significar que el árbol sólo consta de un único nodo interior (es decir, la raíz sólo 
