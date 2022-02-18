@@ -110,7 +110,9 @@ Toman datos aleatorios del set de datos principal para crear N árboles de decis
 # Conclusiones
 - Existen diferentes metodos para realizar clasificacion de datos, y algoritmos dentro de los mismos, por lo cual unos pueden funcionar mejor en ciertos casos que otros logrando una mayor eficiencia, por lo cual es importante selecionar el adecuado acorde a la tarea que necesitemos realizar, para este dataset en especifico se realizo mediante arboles de descicion que fueron generados mediante el algoritmo J48, para lo cual haciendo uso de los datos acerca de los vehiculos como peso, transmicion, consumo y demas, nos permite predecir con un 90% de precision que tipo de vehiculo es.
 ------------
+
 #  Bibliografia
+
 - [1] “Weka 3 - data mining with open source machine learning software in java”, Waikato.ac.nz. [En línea]. Disponible en: https://www.cs.waikato.ac.nz/ml/weka/. [Consultado: 18-feb-2022].
 - [2] RapidMiner GmbH, “Decision stump - RapidMiner documentation”, Rapidminer.com. [En línea]. Disponible en: https://docs.rapidminer.com/latest/studio/operators/modeling/predictive/trees/decision_stump.html. [Consultado: 08-feb-2022].
 - [3] Bae, B. P. (2015). Using machine learning algorithms for housing price prediction: The case of Fairfax County, Virginia housing data. Expert Syst. Appl, 42(6), 2928–2934.
