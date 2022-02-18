@@ -107,7 +107,7 @@ Toman datos aleatorios del set de datos principal para crear N árboles de decis
 #### 25. Una vez ya aplicado el algoritmo J48 de todo el dataset se puede realizar la predicción con un nuevo conjunto de datos como se puede observar la predicción de estos datos
 ![image](https://user-images.githubusercontent.com/46327676/153909124-f38549ea-dd5b-4209-a685-e8a2c61d91c1.png)
 ------------
-# Conclusiones
+# Conclusión
 - Existen diferentes metodos para realizar clasificacion de datos, y algoritmos dentro de los mismos, por lo cual unos pueden funcionar mejor en ciertos casos que otros logrando una mayor eficiencia, por lo cual es importante selecionar el adecuado acorde a la tarea que necesitemos realizar, para este dataset en especifico se realizo mediante arboles de descicion que fueron generados mediante el algoritmo J48, para lo cual haciendo uso de los datos acerca de los vehiculos como peso, transmicion, consumo y demas, nos permite predecir con un 90% de precision que tipo de vehiculo es.
 ------------
 
