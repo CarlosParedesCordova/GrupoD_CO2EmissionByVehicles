@@ -69,7 +69,7 @@ Toman datos aleatorios del set de datos principal para crear N árboles de decis
 
 ------------
 # Tabla Comparativa entre los Algoritmos de Clasificación por Clase de Vehículo
-![image](https://user-images.githubusercontent.com/46327676/153418207-6feca732-93d6-4387-9480-21b8865e401e.png)
+![image](https://user-images.githubusercontent.com/46327676/154855184-8ca328b3-85eb-447e-baa3-e3dc94300c23.png)
 ------------
 
 # Herramienta para la Aplicación del Algoritmo: Weka
