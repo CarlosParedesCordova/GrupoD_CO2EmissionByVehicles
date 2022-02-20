@@ -66,14 +66,17 @@ La clasificación es el proceso de construir un modelo de clases a partir de un 
 ### 5. Random tree
 Toman datos aleatorios del set de datos principal para crear N árboles de decisión a partir de muestras de datos seleccionadas al azar, con el fin de obtener predicciones de cada árbol para luego seleccionar la mejor, su filosofía se basa en muchos es mejor que uno. Los árboles son entrenados de forma ligeramente diferente y se fusionan para obtener predicciones más precisas y estables. Cada árbol generado por el algoritmo contiene un grupo de observaciones aleatorias elegidas mediante bootstrap, que es una técnica estadística para obtener muestras de una población donde una observación se puede considerar en más de una muestra. Las observaciones no estimadas en los árboles (también conocidas como “out of the bag”) se utilizan para validar el modelo. Las salidas de todos los árboles se combinan en una salida final Y (conocida como ensamblado) que se obtiene mediante alguna regla (generalmente el promedio, cuando las salidas de los árboles del ensamblado son numéricas y, conteo de votos, cuando las salidas de los árboles del ensamblado son categóricas).[6]
 ###
-# Herramienta: Weka
-![image](https://i0.wp.com/buconda.com/wp-content/uploads/2019/06/weka2.png?fit=262%2C132&ssl=1)
 
-Weka es una colección de algoritmos de aprendizaje automático para tareas de minería de datos. Contiene herramientas para la preparación de datos, clasificación, regresión, agrupación, minería de reglas de asociación y visualización. Weka es un software de código abierto publicado bajo la Licencia Pública General de GNU. [1]
 ------------
 # Tabla Comparativa entre los Algoritmos de Clasificación por Clase de Vehículo
 ![image](https://user-images.githubusercontent.com/46327676/153418207-6feca732-93d6-4387-9480-21b8865e401e.png)
 ------------
+
+# Herramienta para la Aplicación del Algoritmo: Weka
+![image](https://i0.wp.com/buconda.com/wp-content/uploads/2019/06/weka2.png?fit=262%2C132&ssl=1)
+
+Weka es una colección de algoritmos de aprendizaje automático para tareas de minería de datos. Contiene herramientas para la preparación de datos, clasificación, regresión, agrupación, minería de reglas de asociación y visualización. Weka es un software de código abierto publicado bajo la Licencia Pública General de GNU. [1]
+
 # Pasos a seguir para la aplicación del Algoritmo
 #### 1. Se ingresa a Explorer donde permite el acceso a la mayoría de las funcionalidades integradas en Weka de una manera sencilla.
 ![image](https://user-images.githubusercontent.com/46327676/153769648-93a2a24f-74ab-4dd4-b490-2a22579d3ab9.png)
