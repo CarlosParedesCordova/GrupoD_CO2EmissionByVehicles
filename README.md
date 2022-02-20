@@ -37,7 +37,7 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 - Tener Instalado en el sistema operativo una hoja de cálculo denominada "Microsoft Excel".
 
 # Video Explicativo
-
+https://www.youtube.com/watch?v=JNURdxkqoEM
 # Archivos Necesarios para la aplicación del Algoritmo
 
 # Herramienta: Weka
