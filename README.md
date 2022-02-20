@@ -44,10 +44,7 @@ https://www.youtube.com/watch?v=JNURdxkqoEM
 ### 
 Se encuentra en la carperta "CO2EmissionByVehiclesDataset"
 ### 
-# Herramienta: Weka
-![image](https://i0.wp.com/buconda.com/wp-content/uploads/2019/06/weka2.png?fit=262%2C132&ssl=1)
 
-Weka es una colección de algoritmos de aprendizaje automático para tareas de minería de datos. Contiene herramientas para la preparación de datos, clasificación, regresión, agrupación, minería de reglas de asociación y visualización. Weka es un software de código abierto publicado bajo la Licencia Pública General de GNU. [1]
 
 ------------
 
@@ -68,7 +65,11 @@ El algoritmo del árbol de Hoeffding es un método de aprendizaje del árbol de 
 La clasificación es el proceso de construir un modelo de clases a partir de un conjunto de registros que contienen etiquetas de clase. El algoritmo de árbol de decisión sirve para averiguar el comportamiento del vector de atributos para una serie de instancias. También sobre la base de las instancias de entrenamiento se encuentran las clases para las instancias recién generadas. Las características adicionales de J48 son la contabilización de los valores perdidos, la poda de los árboles de decisión, los rangos de valores de atributos continuos, la derivación de reglas. [5]
 ### 5. Random tree
 Toman datos aleatorios del set de datos principal para crear N árboles de decisión a partir de muestras de datos seleccionadas al azar, con el fin de obtener predicciones de cada árbol para luego seleccionar la mejor, su filosofía se basa en muchos es mejor que uno. Los árboles son entrenados de forma ligeramente diferente y se fusionan para obtener predicciones más precisas y estables. Cada árbol generado por el algoritmo contiene un grupo de observaciones aleatorias elegidas mediante bootstrap, que es una técnica estadística para obtener muestras de una población donde una observación se puede considerar en más de una muestra. Las observaciones no estimadas en los árboles (también conocidas como “out of the bag”) se utilizan para validar el modelo. Las salidas de todos los árboles se combinan en una salida final Y (conocida como ensamblado) que se obtiene mediante alguna regla (generalmente el promedio, cuando las salidas de los árboles del ensamblado son numéricas y, conteo de votos, cuando las salidas de los árboles del ensamblado son categóricas).[6]
+###
+# Herramienta: Weka
+![image](https://i0.wp.com/buconda.com/wp-content/uploads/2019/06/weka2.png?fit=262%2C132&ssl=1)
 
+Weka es una colección de algoritmos de aprendizaje automático para tareas de minería de datos. Contiene herramientas para la preparación de datos, clasificación, regresión, agrupación, minería de reglas de asociación y visualización. Weka es un software de código abierto publicado bajo la Licencia Pública General de GNU. [1]
 ------------
 # Tabla Comparativa entre los Algoritmos de Clasificación por Clase de Vehículo
 ![image](https://user-images.githubusercontent.com/46327676/153418207-6feca732-93d6-4387-9480-21b8865e401e.png)
