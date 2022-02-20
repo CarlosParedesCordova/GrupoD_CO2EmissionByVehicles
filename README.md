@@ -31,7 +31,12 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 - El consumo combinado de combustible (55% ciudad, 45% carretera) se muestra en L/100 km
 
 ------------
+# Requerimientos previos para la aplicación del Algoritmo
 
+
+# Video Explicativo
+
+# Archivos Necesarios para la aplicación del Algoritmo
 
 # Herramienta: Weka
 ![image](https://i0.wp.com/buconda.com/wp-content/uploads/2019/06/weka2.png?fit=262%2C132&ssl=1)
