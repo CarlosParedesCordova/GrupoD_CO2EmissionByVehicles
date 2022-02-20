@@ -32,7 +32,9 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 
 ------------
 # Requerimientos previos para la aplicación del Algoritmo
-
+- Tener Instalado en el sistema operativo la aplicación "Weka".
+- Archivos del Dataset para la aplicación del algoritmo y predicciones.
+- Tener Instalado en el sistema operativo una hoja de cálculo denominada "Microsoft Excel".
 
 # Video Explicativo
 
