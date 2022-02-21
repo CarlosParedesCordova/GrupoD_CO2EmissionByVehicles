@@ -38,7 +38,7 @@ Este conjunto de datos captura los detalles de cómo las emisiones de CO2 de un 
 
 # Video Explicativo
 ### 
-[![Watch the video](https://img.youtube.com/vi/JNURdxkqoEM/maxresdefault.jpg)](https://www.youtube.com/watch?v=JNURdxkqoEM)
+URL: https://www.youtube.com/watch?v=JNURdxkqoEM
 ### 
 # Archivos Necesarios para la aplicación del Algoritmo
 ### 
