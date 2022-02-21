@@ -124,7 +124,7 @@ Weka es una colección de algoritmos de aprendizaje automático para tareas de m
 ------------
 # Conclusión
 - Existen diferentes metodos para realizar clasificacion de datos, y algoritmos dentro de los mismos, por lo cual unos pueden funcionar mejor en ciertos casos que otros logrando una mayor eficiencia, por lo cual es importante selecionar el adecuado acorde a la tarea que necesitemos realizar, para este dataset en especifico se realizo mediante arboles de descicion que fueron generados mediante el algoritmo J48, para lo cual haciendo uso de los datos acerca de los vehiculos como peso, transmicion, consumo y demas, nos permite predecir con un 90% de precision que tipo de vehiculo es.
-- En el presente trabajo se notó una sobrepoblación de datos, para lo cuál mediante la visualización del árbol de decisión (paso 15), se considero  como característica más influyente en el dataset el modelo del vehículo, permitiendo segmentar el dataset, gracias a esta resolución se obtubo una mejora en la precisión del algoritmo j48.
+- En el presente trabajo se notó una sobrepoblación de datos en el dataset, para lo cuál mediante la visualización del árbol de decisión (paso 15), se considero  como característica más influyente en el dataset el modelo del vehículo, permitiendo segmentar el dataset, gracias a esta resolución se obtubo una mejora en la precisión del algoritmo j48.
 ------------
 
 #  Bibliografia
