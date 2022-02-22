@@ -93,6 +93,7 @@ Weka es una colección de algoritmos de aprendizaje automático para tareas de m
 #### 9. El algoritmo para la aplicación es el "J48"
 ![image](https://user-images.githubusercontent.com/46327676/153769941-a482ac47-e09d-4a5d-b86f-df13a1f1acf0.png)
 #### 10. En las opciones para realizar el test seleccionamos la opción "Cross-validation" donde se  calcula el porcentaje de aciertos esperado haciendo una validación cruzada de k hojas (podemos seleccionar el k,que por omisión es de 10).
+###
 ![image](https://user-images.githubusercontent.com/46327676/153785800-292cb7fd-fcec-4d40-8017-c896e465b9a7.png)
 #### 11. Seleccionamos la opción "Start" para ejecutar 
 #### 12. Una vez realizado el test podemos observar el porcentaje de aciertos en este caso constamos con un 90.9276%
